@@ -16,5 +16,5 @@ Credits :
 FLTK developers for their nice toolkit.
 
 License :
-The source code is distributed under the GNU General Public Licence version 3.
+The source code is distributed under the GNU General Public Licence version 2.
 See LICENSE for full text.
