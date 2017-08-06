@@ -1,0 +1,4 @@
+#!/bin/sh
+prog='flshot'
+echo 'Compiling ...'
+g++ $prog.cpp -o $prog `fltk-config --cxxflags --use-images --ldflags`
