@@ -1,3 +1,7 @@
+//Please see LICENSE for license
+//Harap lihat LICENSE for license
+//Last update 8/6/2017
+
 #include <FL/Fl.H>
 #include <FL/Fl_Window.H>
 #include <FL/fl_draw.H>
